@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sande\\source\\repos\\MudlazorPractice\\MyApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sande\\source\\repos\\MudlazorPractice\\MyApplication\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\sande\\source\\repos\\MudlazorPractice\\MyApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyApplication.props",
+      "PackagePath": "build\\MyApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyApplication.props",
+      "PackagePath": "buildMultiTargeting\\MyApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyApplication.props",
+      "PackagePath": "buildTransitive\\MyApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
